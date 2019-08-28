@@ -8,3 +8,14 @@ h1 {
     font-family: 'Segoe UI';
     color: black;
 }
+h2 {
+    font-family: 'Segoe UI';
+}
+
+.flex-container {
+
+}
+.flex-item {
+    width: 50vw
+}
+.
