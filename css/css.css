@@ -4,14 +4,12 @@ img {
 }
 h1 {
     text-align: center;
-<<<<<<< HEAD
     font-size: ;
     font-family: ;
     color: ;
     
 }
-li 
-=======
+li {
     font-size: 5vw;
     font-family: 'Segoe UI';
     color: black;
@@ -26,5 +24,3 @@ h2 {
 .flex-item {
     width: 50vw
 }
-.
->>>>>>> 32007d6164ea5ddb848797ce0ff63cb5cc2b2ee6
