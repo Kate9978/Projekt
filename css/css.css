@@ -1,3 +1,6 @@
+* {
+    font-family: 'Segoe UI';
+}
 img {
     margin: 0px auto;
     width: 100vw;
@@ -18,4 +21,6 @@ h2 {
 .flex-item {
     width: 50vw
 }
-.
+Li{
+    
+}
