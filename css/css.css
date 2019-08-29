@@ -46,3 +46,7 @@ div {
 ul.list li{
     margin: 0 auto;
 }
+h3:hover{
+    font-size: 5em;
+    transition: 3s ease;
+}
