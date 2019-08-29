@@ -7,6 +7,12 @@ img {
 }
 h1 {
     text-align: center;
+    font-size: ;
+    font-family: ;
+    color: ;
+    
+}
+li {
     font-size: 5vw;
     font-family: 'Segoe UI';
     color: black;
@@ -20,8 +26,8 @@ h2 {
 }
 .flex-item {
     width: 50vw
+<<<<<<< HEAD
 }
 .obrázek02, .obrázek03, .obrázek04 {
-    border-radius: 200px
-
+    border-radius: 200px;
 }
