@@ -21,6 +21,7 @@ h2 {
 .flex-item {
     width: 50vw
 }
-Li{
-    
+.obrázek02, .obrázek03, .obrázek04 {
+    border-radius: 200px
+
 }
