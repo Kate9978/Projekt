@@ -1,3 +1,6 @@
+* {
+    font-family: 'Segoe UI';
+}
 img {
     margin: 0px auto;
     width: 100vw;
@@ -23,4 +26,8 @@ h2 {
 }
 .flex-item {
     width: 50vw
+<<<<<<< HEAD
+}
+.obrázek02, .obrázek03, .obrázek04 {
+    border-radius: 200px;
 }
