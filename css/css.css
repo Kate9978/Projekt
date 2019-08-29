@@ -12,8 +12,12 @@ h1 {
     font-size: 6em;
 }
 li {
-    font-family: 'Segoe UI';
-    color: black;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    position: center;
+    box-align: center;
+    max-width: 5%;
 }
 h2 {
     font-family: 'Segoe UI';
@@ -36,4 +40,9 @@ div {
 }
 .logo {
     position: fixed;
+}
+
+
+ul.list li{
+    margin: 0 auto;
 }
